@@ -47,6 +47,7 @@ The task system is designed to help track and manage work effectively across ses
 2. **Task Files**
    - All task files stored in `tasks/all/` as single source of truth
    - Task state managed via symlinks in state directories:
+     - `tasks/all/`: Contains all task files
      - `tasks/new/`: Symlinks to new tasks
      - `tasks/active/`: Symlinks to tasks being worked on
      - `tasks/paused/`: Symlinks to temporarily paused tasks

@@ -1,0 +1,1 @@
+../all/review-typescript-structure.md

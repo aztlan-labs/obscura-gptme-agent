@@ -1,0 +1,1 @@
+../all/learn-db-schema.md
